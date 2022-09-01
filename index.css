@@ -4,12 +4,10 @@ body {
     font-family: 'Federant', cursive;
     font-weight: bold;
     text-align: center;
-    width: 720px;
-    height: 500px;
 }
 
 h1 {
-    margin-top: 10px;
+    margin-top: 100px;
     margin-bottom: 10px;
 }
 

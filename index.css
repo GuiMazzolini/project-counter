@@ -4,6 +4,8 @@ body {
     font-family: 'Federant', cursive;
     font-weight: bold;
     text-align: center;
+    width: 720px;
+    height: 500px;
 }
 
 h1 {
